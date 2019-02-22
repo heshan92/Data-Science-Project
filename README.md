@@ -8,8 +8,11 @@
       Chathuranga N.A.H.W.S  
       W.A.D.N.S Wijesuriya  
 
-3.	Git repo link - https://github.com/heshan92/Data-Science Project/edit/master/README.md
+3.	Git repo link - https://github.com/heshan92/Data-Science-Project
 
 4.	Research Question to be Evaluated
 
-Investigating the factors influencing the Sri Lankans ITC Access and Usage
+Detect and analyze user groups according to the ICT literacy using segmentation based approach. 
+
+Objective of this study is to identify the user groups according to the ICT literacy and usage. After identifying the user groups, we will be able to analyze the groups seperately using various kind of dimensions and that analysis we will be able to derive conclusions. Those conclusions may help to make decisions when plannig the ICT related activieis in future. 
+Clustering analysis based segmentation method will be used to identify the user groups. 
